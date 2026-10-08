@@ -32,4 +32,4 @@ __Melhoria1__, _melhoria 2_
 
 #### Imagem externa
 
-![teste ima 2](https://br.pinterest.com/pin/619456123721660825/)
+![teste ima 2](img/imagem.pnj.png)
