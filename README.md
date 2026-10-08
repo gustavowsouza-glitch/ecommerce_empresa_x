@@ -25,3 +25,10 @@ __Melhoria1__, _melhoria 2_
 1. Àrea de menbros 
 2. Integraçao com outros pagamentos
 3. Sistema de bonus primeira compra
+
+#### Imagem local
+
+![Imagem](img/ChatGPT Image 28 de jun. de 2026, 15_29_54.pnj)
+
+
+
