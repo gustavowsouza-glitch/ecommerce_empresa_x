@@ -30,5 +30,6 @@ __Melhoria1__, _melhoria 2_
 
 ![teste de ima](img/imagem.pnj.png)
 
+#### Imagem externa
 
-
+![teste ima 2](https://br.pinterest.com/pin/619456123721660825/)
