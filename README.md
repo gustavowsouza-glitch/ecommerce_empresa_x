@@ -6,3 +6,6 @@ Vamos criar um e-commerce, para a empresa x e blablabla
 
 Checkout, Tela de produto, Catalogo, Home com banner.
 
+###### Melhoria do projeto:
+
+Melhoria1, melhoria 2
