@@ -22,6 +22,6 @@ __Melhoria1__, _melhoria 2_
 
     ### Funcionalidades a desenvolver:
 
-1.Àrea de menbros 
-2.Integraçao com outros pagamentos
-3.Sistema de bonus primeira compra
+1. Àrea de menbros 
+2. Integraçao com outros pagamentos
+3. Sistema de bonus primeira compra
