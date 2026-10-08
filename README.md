@@ -28,7 +28,7 @@ __Melhoria1__, _melhoria 2_
 
 #### Imagem local
 
-![Imagem](img/ChatGPT Image 28 de jun. de 2026, 15_29_54.pnj)
+![teste de ima](img/imagem.pnj.png)
 
 
 
