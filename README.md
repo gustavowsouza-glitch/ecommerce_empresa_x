@@ -33,3 +33,11 @@ __Melhoria1__, _melhoria 2_
 #### Imagem externa
 
 ![teste ima 2](img/imagem.pnj.png)
+
+## Codigo da funçao soma
+
+´´´javascript
+function soma(a, b) {
+    return a + b;
+}
+´´´
